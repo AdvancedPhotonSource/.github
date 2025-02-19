@@ -12,3 +12,5 @@ The APS GitHub organization hosts a variety of repositories related to the facil
 - data-analysis: Tools and scripts for processing and analyzing experimental data
 
 - simulation: Simulation software for modeling beamline optics, detectors, and other components
+
+- AI: Trained models and frameworks for data inversion, adaptive experimentation, knowledge extraction and LLMs as scientific co-pilots

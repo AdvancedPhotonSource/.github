@@ -15,7 +15,7 @@ The APS GitHub organization hosts a variety of repositories related to the facil
 
 - AI: Trained models and frameworks for data inversion, adaptive experimentation, knowledge extraction and LLMs as scientific co-pilots
 
-## Other X-ray relevant organizations with useful software
+## Other X-ray relevant orgs/repos with useful software (not an exhaustive list! WIP!)
 
 ### Tomo
 - https://github.com/orgs/tomography (Tomography software consortium, APS-driven)

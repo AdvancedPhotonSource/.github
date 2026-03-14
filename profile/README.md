@@ -21,6 +21,7 @@ The APS GitHub organization hosts a variety of repositories related to the facil
 - https://github.com/orgs/tomography (Tomography software consortium, APS-driven)
 - https://github.com/phzwart/dlsia (Deep Learning for Scientific Image Analysis, LBNL-driven)
 - https://github.com/orgs/xray-imaging (X-ray imaging tools from APS IMG group)
+- https://github.com/AdvancedPhotonSource/xdesign (Tools for designing x-ray phantoms and experiments)
 
 ### Controls
 - https://github.com/areadetector

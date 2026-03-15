@@ -15,14 +15,6 @@ The APS GitHub organization hosts a variety of repositories related to the facil
 
 - AI: Trained models and frameworks for data inversion, adaptive experimentation, knowledge extraction and LLMs as scientific co-pilots
 
-## ⭐ Most Popular Projects
-<!-- POPULAR_START -->
-<!-- POPULAR_END -->
-
-## ⚡ Recently Active
-<!-- ACTIVE_START -->
-<!-- ACTIVE_END -->
-
 ## Other X-ray relevant orgs/repos with useful software (not an exhaustive list! WIP!)
 
 ### Tomo

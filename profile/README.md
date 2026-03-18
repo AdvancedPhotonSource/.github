@@ -18,8 +18,9 @@ The APS GitHub organization hosts a variety of repositories related to the facil
 ## Other X-ray relevant orgs/repos with useful software (not an exhaustive list! WIP!)
 
 ### Tomo
-- https://github.com/orgs/tomography (Tomography software consortium, APS-driven)
-- https://github.com/phzwart/dlsia (Deep Learning for Scientific Image Analysis, LBNL-driven)
+- https://github.com/tomopy/tomopy
+- https://github.com/orgs/tomography (Tomography software consortium)
+- https://github.com/phzwart/dlsia (Deep Learning for Scientific Image Analysis)
 - https://github.com/orgs/xray-imaging (X-ray imaging tools from APS IMG group)
 - https://github.com/AdvancedPhotonSource/xdesign (Tools for designing x-ray phantoms and experiments)
 
